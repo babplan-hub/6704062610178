@@ -1,5 +1,7 @@
 streamlit
-scikit-learn
 pandas
+numpy
+scikit-learn
 joblib
 opencv-python-headless
+tensorflow==2.12.0
