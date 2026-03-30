@@ -5,3 +5,4 @@ scikit-learn
 joblib
 opencv-python-headless
 streamlit-drawable-canvas==0.9.3
+tensorflow-cpu==2.11.0
