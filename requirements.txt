@@ -1,6 +1,6 @@
-streamlit
+streamlit==1.30.0
+numpy==1.23.5
 pandas
-numpy
 scikit-learn
 joblib
 opencv-python-headless
