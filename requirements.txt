@@ -4,4 +4,4 @@ pandas
 scikit-learn
 joblib
 opencv-python-headless
-streamlit-drawable-canvas
+streamlit-drawable-canvas==0.9.3
